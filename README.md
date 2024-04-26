@@ -15,7 +15,7 @@ Project Notes:
 ## Project PI/Project Team 
 **Due March 21, 11:59pm**
 
-Name, Vandy email, VUNetID, Role
+Gakenia Muigai, gakenia.s.muigai@vanderbilt.edu, muigaigs, PI
 
 ## Project Proposal 
 **Due March 21, 11:59pm**
