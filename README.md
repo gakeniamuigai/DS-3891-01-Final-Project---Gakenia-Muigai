@@ -16,6 +16,7 @@ Project Notes:
 **Due March 21, 11:59pm**
 
 Gakenia Muigai, gakenia.s.muigai@vanderbilt.edu, muigaigs, PI
+
 Najmah Muhammad, najmah.l.muhammad@vanderbilt.edu, ---, PI
 
 ## Project Proposal 
