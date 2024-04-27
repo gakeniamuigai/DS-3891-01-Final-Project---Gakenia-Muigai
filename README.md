@@ -106,6 +106,8 @@ Furthermore, the gbt plays a significant role in fostering critical thinking ski
 
 Moreover, the gbt serves as a gateway for collaboration among students. By facilitating discussions around critical thinking questions, it creates opportunities for peer interaction and knowledge sharing. Students can engage in meaningful discussions, exchange ideas, and provide feedback to their peers, thereby enhancing their collaborative skills and promoting a collaborative learning environment.
 
+Concerning metrics, our feedback turnaround time was good. When a user submits a text, the turnaround time is 1-2 minutes. For this project, Najmah and I had 6 of our friends submit the essays they are writing during their final season. According to them, they believe that the gbt was effective and efficient. They saw themselves using the feature when needing feedback during late hours of the night when they cannot reach their professors. I believe that the user satisfaction rate was excellent. Additionally, the accuracy of feedback was excellent. The gbt was specific in defining the grammatical errors and incoherence. Finally, the improvement in writing skills was good. Although we were unable to test the gbt long-term, I believe that over time, the gbt will assist students in their writing skills. 
+
 ## Reflection on Learning
 **Due April 26, 11:59pm**
 
