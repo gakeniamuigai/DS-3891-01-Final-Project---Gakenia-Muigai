@@ -26,7 +26,9 @@ Najmah Muhammad, najmah.l.muhammad@vanderbilt.edu, ---, PI
 
 ### Description of Problem/Opportunity
 
-What happens when you need feedback but you cannot reach your teacher? It is a common problem among college students who rely on their professors for guidance. While it remains crucial to connect with your teacher whenever possible, Najmah and I wanted to make a gbt that serves as professor/teacher providing feedback when needed. 
+What happens when you need feedback but you cannot reach your teacher? It is a common problem among college students who rely on their professors for guidance. While it remains crucial to connect with your teacher whenever possible, Najmah and I wanted to make a gbt that serves as professors/teachers providing feedback when needed. 
+
+By offering immediate and personalized feedback, writing becomes more accessible and the educational experience more engaging. This gbt aims to transform educational practices by enhancing learning outcomes and reducing the workload on educators.
 
 ### Proposed Solution/Approach
 
