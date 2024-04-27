@@ -51,8 +51,8 @@ Describe 1-5 goals of the project.
 ### Goal 1: Improve Writing Skills and Learning Outcomes
 ### Goal 2: Increase Accessibility
 ### Goal 3: Enhance Teaching Efficiency and Effectiveness
-### Goal 4
-### Goal 5
+### Goal 4: Foster critical thinking skills
+### Goal 5: Promote collaboration
 
 ## Project Metrics 
 **Due March 21, 11:59pm**
