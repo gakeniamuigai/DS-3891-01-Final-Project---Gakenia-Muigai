@@ -84,6 +84,7 @@ C (Average): 5-9% improvement
 D (Poor): Less than 5% improvement
 
 Inspector Wiz 2.0: https://chat.openai.com/g/g-er2OZ6ScC-inspector-wiz-2-0 
+Video: https://youtu.be/Y2drjFpRqFw
 
 ## Self-Evaluation
 **Due April 26, 11:59pm**
