@@ -28,6 +28,8 @@ Najmah Muhammad, najmah.l.muhammad@vanderbilt.edu, ---, PI
 
 ### Proposed Solution/Approach
 
+This AI system assesses written assignments and delivers immediate feedback, encompassing grammar enhancements, style recommendations, and content suggestions. It aids students in enhancing their writing abilities with greater efficiency, fostering self-directed learning
+
 ### Project Outline and Timeline
 What are the steps to complete the project? State your milestones and the dates you want to complete them. 
 
@@ -44,6 +46,8 @@ Describe 1-5 goals of the project.
 Compose 2-5 metrics to determine the success of the project. These should be measureable, and should translate to a letter grade for each. 
 ### Metric 1
 ### Metric 2
+
+Inspector Wiz 2.0: https://chat.openai.com/g/g-er2OZ6ScC-inspector-wiz-2-0 
 
 ## Self-Evaluation
 **Due April 26, 11:59pm**
