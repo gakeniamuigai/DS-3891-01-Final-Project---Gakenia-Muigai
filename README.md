@@ -26,6 +26,8 @@ Najmah Muhammad, najmah.l.muhammad@vanderbilt.edu, ---, PI
 
 ### Description of Problem/Opportunity
 
+What happens when you need feedback but you cannot reach your teacher? It is a common problem among college students who rely on their professors for guidance. While it remains crucial to connect with your teacher whenever possible, Najmah and I wanted to make a gbt that serves as professor/teacher providing feedback when needed. 
+
 ### Proposed Solution/Approach
 
 This AI system assesses written assignments and delivers immediate feedback, encompassing grammar enhancements, style recommendations, and content suggestions. It aids students in enhancing their writing abilities with greater efficiency, fostering self-directed learning
