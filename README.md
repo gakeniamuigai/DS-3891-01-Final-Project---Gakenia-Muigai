@@ -1,5 +1,5 @@
 # Inspector Wiz 2.0: Automated Essay Feedback and Improvement Suggestions
-Short description of project. Replace this and the project section below with a 1-3 sentence description of your project. 
+This project focuses on a gbt that makes automated essay feedback for users that submit a text
 
 Project Notes:
 
@@ -17,7 +17,7 @@ Project Notes:
 
 Gakenia Muigai, gakenia.s.muigai@vanderbilt.edu, muigaigs, PI
 
-Najmah Muhammad, najmah.l.muhammad@vanderbilt.edu, ---, PI
+Najmah Muhammad, najmah.l.muhammad@vanderbilt.edu, muhammnl, PI
 
 ## Project Proposal 
 **Due March 21, 11:59pm**
@@ -77,13 +77,7 @@ B (Good): 85-94% accuracy
 C (Average): 75-84% accuracy
 D (Poor): Below 75% accuracy
 
-### Metric 4: Adoption Rate: The percentage of target audience (students and educators within the deployment environment) who actively use the system over a set period.
-A (Excellent): 80-100% adoption
-B (Good): 60-79% adoption
-C (Average): 40-59% adoption
-D (Poor): Below 40% adoption
-
-### Metric 5: Improvement in Writing Skills: Improvement in students' writing skills over a semester, measured by comparing pre- and post-implementation essay scores.
+### Metric 4: Improvement in Writing Skills: Improvement in students' writing skills over a semester, measured by comparing pre- and post-implementation essay scores.
 A (Excellent): 20% or more improvement
 B (Good): 10-19% improvement
 C (Average): 5-9% improvement
@@ -115,9 +109,17 @@ Concerning metrics, our feedback turnaround time was good. When a user submits a
 
 What do you take away from the project? Has this changed how you understand AI? Does and how does this affect future plans for learning, work, or otherwise?
 
+I enjoyed working on this project with Najmah. We both have an interest in the education field and thought that this project would be a unique way to address any gaps in the field. We came about this idea when discussing the essays that we had for class, and explaining how it was difficult to reach our professors and get appointments at the Writing Studio. Therefore, Najmah and I believed that a gut that assesses essays would be useful for us and other students. 
+
+My takeaway from this project was how AI can be revolutionary in education. When thinking about AI and education, it is mainly in the terms of how AI will be detrimental to students. Particularly, when concerning essays, many people believe that critical thinking and writing skills will decrease in students who use AI. However, get like Inspector Wiz demonstrate that AI can be a productive tool in terms of education and essays. Rather than using AI to write essays, this gpt can be used to improve essays and student’s writing skills. Furthermore, it benefits the teacher by assisting them when the student needs individualized help. It is well known that the current American education system overwhelms teachers. Therefore, Inspector Wiz can alleviate the stress many teachers and professors face.  
+
+
 ## What's Next?
 **Due April 26, 11:59pm**
 
 100-500 words
 
 Do you plan on continuing the project? What will you do with what you've learning?
+
+I do not plan on continuing the project. However, I will used what I learned with actions and schemes to help me If I need to create other gbts. I think that creating gbts are useful when needing specific help. AI is such a powerful that it can provide you with specific functions and actions. 
+
