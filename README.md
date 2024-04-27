@@ -35,7 +35,13 @@ By offering immediate and personalized feedback, writing becomes more accessible
 This AI system assesses written assignments and delivers immediate feedback, encompassing grammar enhancements, style recommendations, and content suggestions. It aids students in enhancing their writing abilities with greater efficiency, fostering self-directed learning
 
 ### Project Outline and Timeline
-What are the steps to complete the project? State your milestones and the dates you want to complete them. 
+
+Day 1-2: Define project scope, objectives, and immediate goals.
+Day 3-4: Initial Research and Planning
+Day 5-7: Start the design of a basic prototype 
+Day 8-10: Initiate a focused development
+Day 11-12: Conduct internal testing 
+Day 13-14: Implement improvements
 
 ## Goals of project 
 **Due March 21, 11:59pm**
