@@ -47,15 +47,47 @@ Day 13-14: Implement improvements
 **Due March 21, 11:59pm**
 
 Describe 1-5 goals of the project. 
-### Goal 1
-### Goal 2
+
+### Goal 1: Improve Writing Skills and Learning Outcomes
+### Goal 2: Increase Accessibility
+### Goal 3: Enhance Teaching Efficiency and Effectiveness
+### Goal 4
+### Goal 5
 
 ## Project Metrics 
 **Due March 21, 11:59pm**
 
 Compose 2-5 metrics to determine the success of the project. These should be measureable, and should translate to a letter grade for each. 
-### Metric 1
-### Metric 2
+
+### Metric 1: Feedback Turnaround Time: The average time taken by the system to provide feedback on submitted essays.
+A (Excellent): Less than 1 minute
+B (Good): 1-2 minutes
+C (Average): 2-5 minutes
+D (Poor): More than 5 minutes
+
+### Metric 2: User Satisfaction Rate: Percentage of users (students and educators) who report satisfaction with the system's feedback quality, usability, and overall impact on the learning experience.
+A (Excellent): 90-100%
+B (Good): 75-89%
+C (Average): 60-74%
+D (Poor): Below 60%
+
+### Metric 3: Accuracy of Feedback: The accuracy of feedback provided by the system, measured by comparing a subset of AI-generated feedback against expert human evaluation.
+A (Excellent): 95-100% accuracy
+B (Good): 85-94% accuracy
+C (Average): 75-84% accuracy
+D (Poor): Below 75% accuracy
+
+### Metric 4: Adoption Rate: The percentage of target audience (students and educators within the deployment environment) who actively use the system over a set period.
+A (Excellent): 80-100% adoption
+B (Good): 60-79% adoption
+C (Average): 40-59% adoption
+D (Poor): Below 40% adoption
+
+### Metric 5: Improvement in Writing Skills: Improvement in students' writing skills over a semester, measured by comparing pre- and post-implementation essay scores.
+A (Excellent): 20% or more improvement
+B (Good): 10-19% improvement
+C (Average): 5-9% improvement
+D (Poor): Less than 5% improvement
 
 Inspector Wiz 2.0: https://chat.openai.com/g/g-er2OZ6ScC-inspector-wiz-2-0 
 
